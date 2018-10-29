@@ -37,4 +37,4 @@ the file is not present the dash works with no subprojects support.
 
 ## Q. What if I don't want to generate all the HTML files?
 
-Easy, comment the proper lines in the shell script at templates/gen.sh
+Easy, comment the proper lines in the shell script at **templates/gen.sh**
